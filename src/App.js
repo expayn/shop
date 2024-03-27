@@ -1,11 +1,12 @@
-import Header from './component/Header'
-import Footer from './component/Footer'
+import Footerr from './components/Footer'
+import Headerr from './components/Header'
+
 
 function App() {
   return (
     <div className="wrapper">
-      <Header />
-      <Footer />
+      <Headerr />
+      <Footerr />
     </div>
   );
 }
